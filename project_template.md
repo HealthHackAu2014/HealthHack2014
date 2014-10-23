@@ -35,6 +35,9 @@ Links
 
 + Link to [github repository](http://example.com)
 + Link to [running examples](http://example.com) where appropriate
++ Link to [youtube video](http://youtu.be/9FPBMUOvRvM?list=PLbgGuZGAyeYXTJHqbZgd29CPSCies1WSR)
+
+**You need a video uploaded for us to present at closing!**
 
 Tech stack
 ------
